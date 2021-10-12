@@ -1,0 +1,12 @@
+C:\Users\clietin bambisa\source\repos\Group_project\Group_project\obj\Debug\Group_project.vbproj.AssemblyReference.cache
+C:\Users\clietin bambisa\source\repos\Group_project\Group_project\obj\Debug\Group_project.frmCharity.resources
+C:\Users\clietin bambisa\source\repos\Group_project\Group_project\obj\Debug\Group_project.Resources.resources
+C:\Users\clietin bambisa\source\repos\Group_project\Group_project\obj\Debug\Group_project.vbproj.GenerateResource.cache
+C:\Users\clietin bambisa\source\repos\Group_project\Group_project\obj\Debug\Group_project.vbproj.CoreCompileInputs.cache
+C:\Users\clietin bambisa\source\repos\Group_project\Group_project\bin\Debug\Group_project.exe.config
+C:\Users\clietin bambisa\source\repos\Group_project\Group_project\bin\Debug\Group_project.exe
+C:\Users\clietin bambisa\source\repos\Group_project\Group_project\bin\Debug\Group_project.pdb
+C:\Users\clietin bambisa\source\repos\Group_project\Group_project\bin\Debug\Group_project.xml
+C:\Users\clietin bambisa\source\repos\Group_project\Group_project\obj\Debug\Group_project.exe
+C:\Users\clietin bambisa\source\repos\Group_project\Group_project\obj\Debug\Group_project.xml
+C:\Users\clietin bambisa\source\repos\Group_project\Group_project\obj\Debug\Group_project.pdb
